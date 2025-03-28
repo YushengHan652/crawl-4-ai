@@ -1,2 +1,4 @@
 ipykernel
-python-dotenv
+dotenv
+crawl4ai
+pydantic

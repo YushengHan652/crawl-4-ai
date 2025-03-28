@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+]# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
@@ -43,7 +43,8 @@ nosetests.xml
 coverage.xml
 *.cover
 
-# Translations
+ -Translations=
+
 *.mo
 *.pot
 
@@ -87,7 +88,7 @@ target/
 .mypy_cache/
 
 # Exclude virtual environment
-.venv/
+.venv/0
 
 # Exclude trained models
 /models/
